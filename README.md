@@ -20,5 +20,5 @@
 - PHP, Node.js, Express, Laravel, MySQL
 
 ### Tools & Others
-- Docker, Git, VS Code, Blender, Graphic Design, Data Analysis
+- Docker, Git, VS Code, Blender
 
