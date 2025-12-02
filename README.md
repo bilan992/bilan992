@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on **open-source projects and innovative web solutions**
 - 🤔 I’m looking for help with **scaling web applications and optimizing backend performance**
 - 💬 Ask me about **full-stack development, Python, PHP, React, or data-driven projects**
-- 📫 How to reach me: **[Email](mailto:bilanaidid862-email@example.com) | [LinkedIn]https://www.linkedin.com/in/bilan-aidid-b4b336348?**
+- 📫 How to reach me: **[Email](mailto:bilanaidid862-email@example.com) | [LinkedIn](https://www.linkedin.com/in/bilan-aidid-b4b336348?)**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I love building projects from scratch and turning ideas into real apps 🚀**
 
